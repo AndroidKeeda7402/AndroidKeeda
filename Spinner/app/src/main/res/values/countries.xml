@@ -1,0 +1,23 @@
+<resources>
+
+    <string-array name="countries">
+
+        <item>India</item>
+        <item>Australia</item>
+        <item>SriLanka</item>
+        <item>West Indies</item>
+        <item>South Africa</item>
+        <item>Saudi Arabia</item>
+        <item>Kuwait</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Africa</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>America</item>
+        <item>Poland</item>
+        <item>Holand</item>
+        <item>Yaman</item>
+
+    </string-array>
+</resources>

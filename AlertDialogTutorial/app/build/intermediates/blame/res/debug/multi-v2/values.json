@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3,7,5,6",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "130,19,78,422,284,353",
+                        "endColumns": "152,57,50,78,67,67",
+                        "endOffsets": "278,72,124,496,347,416"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,208,266,317,396,464",
+                        "endColumns": "152,57,50,78,67,67",
+                        "endOffsets": "203,261,312,391,459,527"
+                    }
+                },
+                {
+                    "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "57",
+                        "endOffsets": "585"
+                    }
+                }
+            ]
+        }
+    ]
+}

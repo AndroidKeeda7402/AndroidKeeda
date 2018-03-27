@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AlertDialog Tutorial</string>
+    <string name="menu_settings">Settings</string>
+    <string name="NewActivity">I have successfully created an Alert Dialog in Android that opens a new activity on positive "Yes" button click.</string>
+    <string name="one_button">Alert Dialog With One Button</string>
+    <string name="two_button">Alert Dialog With Two Button</string>
+    <string name="new_activity_button">Alert Dialog Open New Activity</string>
+    
+</resources>

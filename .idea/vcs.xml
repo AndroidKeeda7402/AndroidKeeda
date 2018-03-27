@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidDialogExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CheckConnection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DatePickerexample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gmail2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoginandRegistration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VideoStraming" vcs="Git" />
+  </component>
+</project>

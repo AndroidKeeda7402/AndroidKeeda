@@ -1,0 +1,87 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "63",
+                        "endOffsets": "78"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3,7,5,6",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "130,19,78,422,284,353",
+                        "endColumns": "152,57,50,78,67,67",
+                        "endOffsets": "278,72,124,496,347,416"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,208,266,317,396,464",
+                        "endColumns": "152,57,50,78,67,67",
+                        "endOffsets": "203,261,312,391,459,527"
+                    }
+                },
+                {
+                    "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "532",
+                        "endColumns": "57",
+                        "endOffsets": "585"
+                    }
+                }
+            ]
+        }
+    ]
+}

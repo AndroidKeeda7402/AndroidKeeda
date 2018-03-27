@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_alert_dialog.xml.flat",
+        "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\menu\\activity_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout_alert_dialog.xml.flat",
+        "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_androidhappy.png.flat",
+        "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\drawable-hdpi\\androidhappy.png"
+    },
+    {
+        "merged": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_activity.xml.flat",
+        "source": "D:\\Development\\AndroidKeeda\\AlertDialogTutorial\\app\\src\\main\\res\\layout\\new_activity.xml"
+    }
+]
